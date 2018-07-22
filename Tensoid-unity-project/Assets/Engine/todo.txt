@@ -1,0 +1,2 @@
+﻿assign rects 
+fit them diagram draw
